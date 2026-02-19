@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 
@@ -12,6 +12,6 @@
     <li><a href="PT03/">PT03 Folder</a></li>
    
   </ul>
-  <p></a></p>
+  
 </body>
 </html>
